@@ -6,7 +6,7 @@
 
 ## Semana 2
 
-### [Historias de usuario](Historias_de_usuario)
+### [Historias de usuario](Historias_de_usuario.md)
 
 ### [Prototipos individuales de la página principal de la aplicación](Prototipos_individuales)
 
